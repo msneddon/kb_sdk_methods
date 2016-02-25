@@ -7,7 +7,7 @@
 	],
 	"contact": "help@kbase.us",
 	"visible": true,
-	"categories": ["active"],
+	"categories": ["active", "util"],
 	"widgets": {
 		"input": null,
 		"output": "kbaseRegisterRepoState"
