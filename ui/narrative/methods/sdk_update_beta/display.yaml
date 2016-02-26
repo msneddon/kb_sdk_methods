@@ -4,7 +4,7 @@
 name: SDK - Update Beta Version
 
 tooltip: |
-	Migrates the latest dev version to beta
+	Promote the latest dev version to beta
 
 screenshots: []
 
