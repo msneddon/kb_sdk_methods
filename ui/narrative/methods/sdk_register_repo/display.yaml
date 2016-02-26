@@ -4,7 +4,7 @@
 name: SDK - Register Repo
 
 tooltip: |
-	Register dynamically service repository to the Catalog.
+	Dynamically register service repository to the Catalog.
 
 screenshots: []
 
