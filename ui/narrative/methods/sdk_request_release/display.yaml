@@ -4,11 +4,11 @@
 name: SDK - Request Module Release
 
 tooltip: |
-	Indicates that the beta version is ready for release, and requests a review
+	Indicate that the beta version is ready for release, and request a review
 
 screenshots: []
 
-icon: kb_sdk-orange.png
+icon: kb_logo.png
 
 #
 # define a set of similar methods that might be useful to the user
