@@ -7,7 +7,7 @@ tooltip  : Get the log for a running or recently completed job by job ID
 
 screenshots : []
 
-icon: kb_logo.png
+icon: kb_sdk-orange.png
 
 #
 # Define the set of other narrative methods that should be suggested to the user.
