@@ -2,13 +2,15 @@ module-name:
     KBaseSDK
 
 module-description:
-    A KBase module
+    A set of Narrative Apps for SDK developers.  Most of these operations can be handled 
+    through the App Catalog, but are provided in the Narrative for convenience.  All of
+    these operations can be performed from the Catalog API.
 
 service-language:
     python
 
 module-version:
-    0.0.1
+    1.0.0
 
 owners:
     [msneddon]
